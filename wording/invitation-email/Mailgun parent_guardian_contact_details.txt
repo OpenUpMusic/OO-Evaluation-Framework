@@ -43,7 +43,7 @@ EXAMPLE EMAIL TO PARENTS/GUARDIANS
 
 For your information, here's an example showing how the automatic email to parents/guardians (point 2 above) is worded:
 
-	SUBJECT: Parent/guardian evaluation ({{42401822__COL$E}})
+	SUBJECT: Parent/guardian survey ({{42401822__COL$E}})
 
 	Dear Mrs Green,
 
