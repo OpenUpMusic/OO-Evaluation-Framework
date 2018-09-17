@@ -1,17 +1,12 @@
 Hi {{42401822__COL$C}},
 
-It's now time for the parents/guardians of Open Orchestras participants to complete milestone surveys about their children, to help track and celebrate their progress. This needs to be completed online rather than on paper, so that the responses are collated.
+It's now time for the parents/guardians of Open Orchestras participants to complete {{42401822__COL$E}} surveys about their children, to help track and celebrate their progress. This needs to be completed online rather than on paper, so that the responses are collated.
 
 Below is a link for each of your Open Orchestras participants (represented by their initials). Please could you:
-
 1. Click the link for the first participant. This will take you to...
-
 2. ... a ‘Parent/Guardian contact details’ form. Please enter the name and email address for the participant's parent/guardian and click ‘submit’. This will trigger an automatic email to the parent/guardian inviting them to complete the survey. (We don't retain the contact information of parents/guardians.)
-
 3. Repeat the process for each participant.
 
-{{42401822__COL$F}}: {{42401822__COL$AM}}
-{{42401822__COL$G}}: {{42401822__COL$AN}}
 {{42401822__COL$H}}: {{42401822__COL$AO}}
 {{42401822__COL$I}}: {{42401822__COL$AP}}
 {{42401822__COL$J}}: {{42401822__COL$AQ}}
@@ -25,13 +20,15 @@ Below is a link for each of your Open Orchestras participants (represented by th
 {{42401822__COL$R}}: {{42401822__COL$AY}}
 {{42401822__COL$S}}: {{42401822__COL$AZ}}
 {{42401822__COL$T}}: {{42401822__COL$BA}}
+{{42401822__COL$U}}: {{42401822__COL$BB}}
+{{42401822__COL$V}}: {{42401822__COL$BC}}
 
-When you submit each ‘Parent/guardian contact details’ form, you will be emailed a copy of your responses. You will also receive a copy of the responses that the parents/guardians submit to the milestone surveys.
+When you submit each ‘Parent/guardian contact details’ form, you will be emailed a copy of your responses. You will also be notified when the parents/guardians submit their {{42401822__COL$E}} surveys.
 
 
 NEED TO REGISTER MORE PARTICIPANTS?
 
-If you need to complete evaluation surveys for participants not listed above, <a href="{{42401822__COL$BC}}">click here to register a new participant and then send us an email at info@openorchestras.org to let us know.
+If you need to complete evaluation surveys for participants not listed above, click here to register a new participant and then send us an email at info@openorchestras.org to let us know.: {{42401822__COL$BD}}
 
 
 DEADLINE
@@ -52,6 +49,8 @@ For your information, here's an example showing how the automatic email to paren
 	Please click here to complete a {{42401822__COL$E}} survey for your child:
 	https://www.openorchestras.org
 
+	We would be grateful if you could complete this survey by {{42401822__COL$G}}.
+	
 	If you have any questions, or if don't know why you are receiving this email, please contact {{42401822__COL$C}} at {{42401822__COL$D}}.
 
 	Regards,
