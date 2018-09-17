@@ -1,23 +1,8 @@
 Hi {{42358410__COL$C}},
 
-It's time for you to complete your {{42358410__COL$E}} participant evaluations by music educators.
+It's now time for your Open Orchestras delivery team to complete {{42358410__COL$E}} evaluation surveys about each participant.
 
-
-BEFORE YOU START...
-
-You'll need to complete one questionnaire per participant. You'll find a separate link below for each one.
-
-Here's a summary of what we'll ask you:
-- Musical skills: musical experience, assessment/accreditation, motivation
-- Social development: teamwork, communication
-- Transferrable skills: IEPs, the wider curriculum, life in general
-- Personal development: expression, concentration, communication
-- Aspiration: improved interest, higher expectations
-
-When you submit each evaluation, you will be emailed a copy of your responses.
-
-
-PARTICIPANT EVALUATION BY MUSIC EDUCATOR FORM(S)
+Below is a link for each of your Open Orchestras participants (represented by their initials). Please could your Open Orchestras delivery team (the staff member and the music leader delivering Open Orchestras in your setting) complete one survey for each participant by clicking each link:
 
 {{42358410__COL$G}}: {{42358410__COL$AN}}
 {{42358410__COL$H}}: {{42358410__COL$AO}}
@@ -36,11 +21,16 @@ PARTICIPANT EVALUATION BY MUSIC EDUCATOR FORM(S)
 {{42358410__COL$U}}: {{42358410__COL$BB}}
 
 
-Need to register more participants?
+NEED TO REGISTER MORE PARTICIPANTS?
 
-If you need to complete evaluations for participants not listed above, click here to register a new participant:
+If you need to complete evaluation surveys for participants not listed above, click here to register a new participant:
 {{42358410__COL$BC}}
 and then send us an email at info@openorchestras.org to let us know.
 
-Regards,
+
+DEADLINE
+
+Please ensure that all {{42358410__COL$E}} evaluation surveys are completed by {{42358410__COL$F}}. We will then process your data and send you your {{42358410__COL$E}} evaluation report.
+
+Thanks!
 Open Orchestras

@@ -1,18 +1,8 @@
 Hi {{42343555__COL$C}},
 
-It's time for you to complete your {{42343555__COL$E}} participant self-evaluations.
+It's now time for your Open Orchestras participants to complete their {{42343555__COL$E}} self-evaluations.
 
-
-BEFORE YOU START...
-
-You'll need to complete one questionnaire per participant. You'll find a separate link below for each one.
-
-When you ask the questions, we suggest keeping it light and informal! Avoid asking questions at the end of a session - somewhere in the midst of music making often works well. If participants are not in a position to give a clear answer, please select 'not sure' and then add a comment to clarify.
-
-When you submit each evaluation, you will be emailed a copy of your responses.
-
-
-PARTICIPANT SELF-EVALUATION FORM(S)
+Below is a link for each of your Open Orchestras participants (represented by their initials). Please could you complete one survey WITH each participant. You may want to print out the questions to record the participant's answers on paper first, before submitting them online by clicking each of the links below:
 
 {{42343555__COL$G}}: {{42343555__COL$AN}}
 {{42343555__COL$H}}: {{42343555__COL$AO}}
@@ -30,12 +20,21 @@ PARTICIPANT SELF-EVALUATION FORM(S)
 {{42343555__COL$T}}: {{42343555__COL$BA}}
 {{42343555__COL$U}}: {{42343555__COL$BB}}
 
+When you ask participants the questions, we suggest keeping it light and informal! Avoid asking questions at the end of a music session - somewhere in the midst of music making often works well. If participants are not in a position to give a clear answer, please select ‘not sure’ and then add a comment to clarify.
 
-Need to register more participants?
+When you submit each survey you will be emailed a copy of the responses for your records.
 
-If you need to complete evaluations for participants not listed above, click here to register a new participant:
+
+NEED TO REGISTER MORE PARTICIPANTS?
+
+If you need to complete evaluation surveys for participants not listed above, click here to register a new participant:
 {{42343555__COL$BC}}
 and then send us an email at info@openorchestras.org to let us know.
 
-Regards,
+
+DEADLINE
+
+Please ensure that all {{42343555__COL$E}} evaluation surveys are completed by {{42343555__COL$F}}. We will then process your data and send you your {{42343555__COL$E}} evaluation report.
+
+Thanks!
 Open Orchestras
