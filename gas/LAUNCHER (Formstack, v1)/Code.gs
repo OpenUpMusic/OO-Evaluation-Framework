@@ -13,6 +13,10 @@ function reset() {
 }
 
 function setup() {
+  // Set properties initial values
+  var scriptProperties = PropertiesService.getScriptProperties();
+  scriptProperties.setProperty("resultsGuardianContactDetails_numberOfRows", getSheetById(inSheetId).getLastRow());
+
   // Trigger every 5 minutes
   ScriptApp.newTrigger('checkNewRows')
       .timeBased()
