@@ -7,28 +7,28 @@ Below is a link for each of your Open Orchestras participants (represented by th
 2. ... a ‘Parent/Guardian contact details’ form. Please enter the name and email address for the participant's parent/guardian and click ‘submit’. This will trigger an automatic email to the parent/guardian inviting them to complete the survey. (We don't retain the contact information of parents/guardians.)
 3. Repeat the process for each participant.
 
-{{42401822__COL$H}}: {{42401822__COL$AO}}
-{{42401822__COL$I}}: {{42401822__COL$AP}}
-{{42401822__COL$J}}: {{42401822__COL$AQ}}
-{{42401822__COL$K}}: {{42401822__COL$AR}}
-{{42401822__COL$L}}: {{42401822__COL$AS}}
-{{42401822__COL$M}}: {{42401822__COL$AT}}
-{{42401822__COL$N}}: {{42401822__COL$AU}}
-{{42401822__COL$O}}: {{42401822__COL$AV}}
-{{42401822__COL$P}}: {{42401822__COL$AW}}
-{{42401822__COL$Q}}: {{42401822__COL$AX}}
-{{42401822__COL$R}}: {{42401822__COL$AY}}
-{{42401822__COL$S}}: {{42401822__COL$AZ}}
-{{42401822__COL$T}}: {{42401822__COL$BA}}
-{{42401822__COL$U}}: {{42401822__COL$BB}}
-{{42401822__COL$V}}: {{42401822__COL$BC}}
+{{42401822__COL$H}}: {{42401822__COL$AP}}
+{{42401822__COL$I}}: {{42401822__COL$AQ}}
+{{42401822__COL$J}}: {{42401822__COL$AR}}
+{{42401822__COL$K}}: {{42401822__COL$AS}}
+{{42401822__COL$L}}: {{42401822__COL$AT}}
+{{42401822__COL$M}}: {{42401822__COL$AU}}
+{{42401822__COL$N}}: {{42401822__COL$AV}}
+{{42401822__COL$O}}: {{42401822__COL$AW}}
+{{42401822__COL$P}}: {{42401822__COL$AX}}
+{{42401822__COL$Q}}: {{42401822__COL$AY}}
+{{42401822__COL$R}}: {{42401822__COL$AZ}}
+{{42401822__COL$S}}: {{42401822__COL$BA}}
+{{42401822__COL$T}}: {{42401822__COL$BB}}
+{{42401822__COL$U}}: {{42401822__COL$BC}}
+{{42401822__COL$V}}: {{42401822__COL$BD}}
 
 When you submit each ‘Parent/guardian contact details’ form, you will be emailed a copy of your responses. You will also be notified when the parents/guardians submit their {{42401822__COL$E}} surveys.
 
 
 NEED TO REGISTER MORE PARTICIPANTS?
 
-If you need to complete evaluation surveys for participants not listed above, click here to register a new participant and then send us an email at info@openorchestras.org to let us know.: {{42401822__COL$BD}}
+If you need to complete evaluation surveys for participants not listed above, click here to register a new participant and then send us an email at info@openorchestras.org to let us know.: {{42401822__COL$BE}}
 
 
 DEADLINE
