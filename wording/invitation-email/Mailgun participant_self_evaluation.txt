@@ -1,8 +1,14 @@
 Hi {{42343555__COL$C}},
 
-It's now time for your Open Orchestras participants to complete their {{42343555__COL$E}} self-evaluations.
+It's now time for your Open Orchestras participants to complete their {{42343555__COL$E}} self-evaluations. The instructions below are for the music educator who will support them to do this.
 
-Below is a link for each of your Open Orchestras participants (represented by their initials). Please could you complete one survey WITH each participant. You may want to print out the questions to record the participant's answers on paper first, before submitting them online by clicking each of the links below:
+Please click the links below (showing your participants’ initials) to reveal the questions and to record each participant’s answers. You may want to print out the questions to record their answers on paper first, before submitting them online.
+
+When you ask participants the questions, we suggest keeping it light and informal! We have found that asking questions somewhere in the midst of music making works a lot better than at the end of a music session. If participants are not in a position to give a clear answer, please select 'not sure' and then add a comment to clarify.
+
+When you submit each survey you will be emailed a copy of the responses for your records.
+
+Here are the links to the {{42343555__COL$E}} self-evaluation survey for each participant:
 
 {{42343555__COL$G}}: {{42343555__COL$AN}}
 {{42343555__COL$H}}: {{42343555__COL$AO}}
@@ -20,10 +26,6 @@ Below is a link for each of your Open Orchestras participants (represented by th
 {{42343555__COL$T}}: {{42343555__COL$BA}}
 {{42343555__COL$U}}: {{42343555__COL$BB}}
 
-When you ask participants the questions, we suggest keeping it light and informal! Avoid asking questions at the end of a music session - somewhere in the midst of music making often works well. If participants are not in a position to give a clear answer, please select ‘not sure’ and then add a comment to clarify.
-
-When you submit each survey you will be emailed a copy of the responses for your records.
-
 
 NEED TO REGISTER MORE PARTICIPANTS?
 
@@ -34,7 +36,7 @@ and then send us an email at info@openorchestras.org to let us know.
 
 DEADLINE
 
-Please ensure that all {{42343555__COL$E}} evaluation surveys are completed by {{42343555__COL$F}}. We will then process your data and send you your {{42343555__COL$E}} evaluation report.
+Please ensure that all {{42343555__COL$E}} evaluation surveys are completed by {{42343555__COL$F}}. We will then process your data and send out your {{42343555__COL$E}} evaluation report.
 
-Thanks!
+Many thanks!
 Open Orchestras

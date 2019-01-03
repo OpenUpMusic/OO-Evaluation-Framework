@@ -1,6 +1,6 @@
 Dear {{42412908__COL$G}},
 
-We are emailing on behalf of {{42412908__COL$B}} inviting you to complete a short survey about your child's participation in Open Orchestras (https://www.openorchestras.org). The information you provide is extremely useful in helping to track and celebrate your child's progress. Your feedback also helps us to shape the programme, telling us what's working well and what can be improved for the future.
+We are emailing on behalf of {{42412908__COL$B}} inviting you to complete a short survey about your child's and the orchestra's participation in Open Orchestras (https://www.openorchestras.org). The information you provide is extremely useful in helping to track and celebrate your child's progress. Your feedback also helps us to shape the programme, telling us what's working well and what can be improved for the future.
 
 Please click here to complete a {{42412908__COL$E}} survey for your child:
 {{42412908__COL$O}}
@@ -9,7 +9,7 @@ We would be grateful if you could complete this survey by {{42412908__COL$I}}.
 
 If you have any questions, or if don't know why you are receiving this email, please contact {{42412908__COL$C}} at {{42412908__COL$D}}.
 
-Regards,
+Kind regards,
 Open Orchestras
 
 PS: The survey link above is specific to you and your child. When you complete the survey, we will let {{42412908__COL$C}} know.

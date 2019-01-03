@@ -1,20 +1,31 @@
 Hi {{42342986__COL$C}},
 
-It's now time for your Open Orchestras delivery team to do their {{42342986__COL$E}} self-evaluation surveys. Please forward this email to them.
+It's now time for your Open Orchestras music educators to do their {{42342986__COL$E}} self-evaluation surveys.
 
-This short survey should be completed by both:
-1. the lead staff member from your organisation delivering Open Orchestras music sessions
+Please could you now forward the ‘Dear music educators...’ text below to:
+1. the lead staff member from your organisation delivering Open Orchestras music sessions (this might be you!)
 2. the Music Leader delivering Open Orchestras music sessions in your setting
 
-They should complete one copy of the survey each.
+Many thanks!
+Open Orchestras
 
-Click here to complete your {{42342986__COL$E}} music educator self-evaluation:
+===============================
+
+Dear music educators,
+
+Please click here to complete your Open Orchestras music educator self-evaluation ({{42342986__COL$E}}):
 {{42342986__COL$J}}
 
 
 DEADLINE
 
-Please ensure that all {{42342986__COL$E}} evaluation surveys are completed by {{42342986__COL$F}}. We will then process your data and send you your {{42342986__COL$E}} evaluation report.
+Please ensure that all {{42342986__COL$E}} evaluation surveys are completed by {{42342986__COL$F}}. We will then process your data and send out your {{42342986__COL$E}} evaluation report.
 
-Thanks!
+Please note that in addition to this music educator self-evaluation survey, there are two additional {{42342986__COL$E}} surveys for you to complete, with instructions for each in separate emails:
+- ‘Participant evaluation’ - about each participant from your perspective
+- ‘Participant self-evaluation’ - about each participant from their perspective, completed with your support
+
+We are grateful for your help to complete Open Orchestras evaluation surveys three times a year: at baseline, midpoint and endpoint. This helps to track and celebrate your orchestra's progress.
+
+Many thanks!
 Open Orchestras

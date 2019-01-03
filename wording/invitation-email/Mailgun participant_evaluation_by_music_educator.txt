@@ -1,8 +1,8 @@
 Hi {{42358410__COL$C}},
 
-It's now time for your Open Orchestras delivery team to complete {{42358410__COL$E}} evaluation surveys about each participant.
+It's now time for your music educators to complete their {{42358410__COL$E}} surveys about each Open Orchestras participant.
 
-Below is a link for each of your Open Orchestras participants (represented by their initials). Please could your Open Orchestras delivery team (the staff member and the music leader delivering Open Orchestras in your setting) complete one survey for each participant by clicking each link:
+The staff member and music leader delivering Open Orchestras in your setting should complete one survey per participant, by clicking the link for each participant’s initials below:
 
 {{42358410__COL$G}}: {{42358410__COL$AN}}
 {{42358410__COL$H}}: {{42358410__COL$AO}}
@@ -30,7 +30,7 @@ and then send us an email at info@openorchestras.org to let us know.
 
 DEADLINE
 
-Please ensure that all {{42358410__COL$E}} evaluation surveys are completed by {{42358410__COL$F}}. We will then process your data and send you your {{42358410__COL$E}} evaluation report.
+Please ensure that all {{42358410__COL$E}} evaluation surveys are completed by {{42358410__COL$F}}. We will then process your data and send out your {{42358410__COL$E}} evaluation report.
 
-Thanks!
+Many thanks!
 Open Orchestras
