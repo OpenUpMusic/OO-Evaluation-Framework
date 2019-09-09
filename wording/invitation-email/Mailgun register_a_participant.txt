@@ -1,14 +1,14 @@
-Hi {{40979460__COL$C}},
+Hi {{64156605__COL$C}},
 
-It's now time to register your Open Orchestras participants - the children and young people who will be taking part in your orchestra this year. This step is crucial, as it means we can automate the evaluation process, making it quick and easy to send surveys about participants to music educators and parents/guardians three times a year. We then compile responses into reports that give you useful insights into your orchestra at baseline, and then show progress at midpoint and endpoint.
+It's now time to register your Open Orchestras participants - the children and young people who will be taking part in your orchestra this year. This step is crucial, as it means we can automate the evaluation process, making it quick and easy to send surveys about participants to music educators three times a year. We then compile responses into reports that give you useful insights into your orchestra at baseline, and then show progress at midpoint and endpoint.
 
 Click here to register a participant now:
-{{40979460__COL$H}}
+{{64156605__COL$H}}
 
 
 DEADLINE
 
-Please ensure that you have registered all your participants by {{40979460__COL$E}} (sooner if possible please).
+Please ensure that you have registered all your participants by {{64156605__COL$E}} (sooner if possible please).
 
 Many thanks!
 Open Orchestras
