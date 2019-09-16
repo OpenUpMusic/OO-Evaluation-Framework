@@ -4,28 +4,33 @@
 # Register a participant
 
 - Formstack
-	- [ ] Submission wording
-	- [ ] Test form
-	- [ ] Test notification email
+	- [x] Thank you wording
+	- [x] Test form
+	- [x] Test submitted answers email
 - Zapier Results
-	- [ ] Hook up to new form
-	- [ ] Check hook to Google Results
-	- [ ] Check hook to Google Demographics Results
-	- [ ] Check age field is still valid
-	- [ ] Test
+	- [x] Hook up to new form
+	- [x] Check hook to Google Results
+	- [x] Check hook to Google Demographics Results
+	- [x] Check age field is still valid
+	- [x] Test
+	- [ ] Resolve loss of Unique ID. (Formstack drop webhook. Zapier reconnect to form. Test.)
 - Zapier Launch
-	- [ ] Hook up to new form
-	- [ ] Test by adding to Google Launcher
-	- [ ] Test links in invitation email
+	- [x] Hook up to new form
+	- [x] Test by adding to Google Launcher
+	- [x] Test links in invitation email
 
 
 # Music educator self-evaluation
 
 - Formstack
-	- [ ] Submission wording (variables)
-	- [ ] Notification wording (variables & responses)
-	- [x] Test form (baseline, midpoint & endpoint)
-	- [ ] Test notification email (baseline, midpoint & endpoint)
+	- [ ] Thank you wording (variables)
+	- [ ] Submitted answers email wording (variables & responses)
+	- [ ] Test form (baseline, midpoint & endpoint)
+	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
+- Zapier Launch
+	- [ ] Hook up to new form
+	- [ ] Test by adding to Google Launcher
+	- [ ] Test links in invitation email
 - Zapier Results
 	- [ ] Hook up to new form
 	- [ ] Check hook to Google Results
@@ -33,7 +38,43 @@
 	- [ ] Test
 - Google Results
 	- [ ] Redo response columns
+
+
+# Participant self-evaluation
+
+- Formstack
+	- [ ] Thank you wording (variables)
+	- [ ] Submitted answers email wording (variables & responses)
+	- [ ] Test form (baseline, midpoint & endpoint)
+	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
 - Zapier Launch
 	- [ ] Hook up to new form
 	- [ ] Test by adding to Google Launcher
 	- [ ] Test links in invitation email
+- Zapier Results
+	- [ ] Hook up to new form
+	- [ ] Check hook to Google Results
+	- [ ] Redo mapping of responses
+	- [ ] Test
+- Google Results
+	- [ ] Redo response columns
+
+
+# Participant evaluation (by music educator)
+
+- Formstack
+	- [ ] Thank you wording (variables)
+	- [ ] Submitted answers email wording (variables & responses)
+	- [ ] Test form (baseline, midpoint & endpoint)
+	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
+- Zapier Launch
+	- [ ] Hook up to new form
+	- [ ] Test by adding to Google Launcher
+	- [ ] Test links in invitation email
+- Zapier Results
+	- [ ] Hook up to new form
+	- [ ] Check hook to Google Results
+	- [ ] Redo mapping of responses
+	- [ ] Test
+- Google Results
+	- [ ] Redo response columns
