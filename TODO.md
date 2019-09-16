@@ -26,7 +26,7 @@
 	- [ ] Thank you wording (variables)
 	- [ ] Submitted answers email wording (variables & responses)
 - Zapier Launch
-	- [ ] Hook up to new form
+	- [x] Hook up to new form
 - Zapier Results
 	- [ ] Hook up to new form
 	- [ ] Check sample
@@ -34,8 +34,8 @@
 - Google Results
 	- [ ] Redo response columns
 - Tests
-	- [ ] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
-	- [ ] Test links in invitation email
+	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
+	- [x] Test links in invitation email
 	- [ ] Test form (baseline, midpoint & endpoint)
 	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
 	- [ ] Test Form submission -> Zapier Results -> Google Results
@@ -49,7 +49,7 @@
 - Google Launch
 	- [x] 50 participants
 - Zapier Launch
-	- [ ] Hook up to new form
+	- [x] Hook up to new form
 - Zapier Results
 	- [ ] Hook up to new form
 	- [ ] Check sample
@@ -57,8 +57,8 @@
 - Google Results
 	- [ ] Redo response columns
 - Tests
-	- [ ] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
-	- [ ] Test links in invitation email
+	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
+	- [x] Test links in invitation email
 	- [ ] Test form (baseline, midpoint & endpoint)
 	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
 	- [ ] Test Form submission -> Zapier Results -> Google Results
@@ -72,7 +72,7 @@
 - Google Launch
 	- [x] 50 participants
 - Zapier Launch
-	- [ ] Hook up to new form
+	- [x] Hook up to new form
 - Zapier Results
 	- [ ] Hook up to new form
 	- [ ] Check sample
@@ -80,8 +80,8 @@
 - Google Results
 	- [ ] Redo response columns
 - Tests
-	- [ ] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
-	- [ ] Test links in invitation email
+	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
+	- [x] Test links in invitation email
 	- [ ] Test form (baseline, midpoint & endpoint)
 	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
 	- [ ] Test Form submission -> Zapier Results -> Google Results
