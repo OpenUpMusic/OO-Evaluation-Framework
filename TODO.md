@@ -25,8 +25,6 @@
 - Formstack
 	- [ ] Thank you wording (variables)
 	- [ ] Submitted answers email wording (variables & responses)
-- Google Launch
-	- [ ] 50 participants
 - Zapier Launch
 	- [ ] Hook up to new form
 - Zapier Results
