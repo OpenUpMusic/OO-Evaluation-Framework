@@ -23,8 +23,7 @@
 # Music educator self-evaluation
 
 - Formstack
-	- [ ] Thank you wording (variables)
-	- [ ] Submitted answers email wording (variables & responses)
+	- [x] Thank you wording (variables)
 - Zapier Launch
 	- [x] Hook up to new form
 - Zapier Results
@@ -44,8 +43,8 @@
 # Participant self-evaluation
 
 - Formstack
-	- [ ] Thank you wording (variables)
-	- [ ] Submitted answers email wording (variables & responses)
+	- [x] Thank you wording (variables)
+	- [x] Submitted answers email wording (variables & responses)
 - Google Launch
 	- [x] 50 participants
 - Zapier Launch
@@ -67,8 +66,8 @@
 # Participant evaluation (by music educator)
 
 - Formstack
-	- [ ] Thank you wording (variables)
-	- [ ] Submitted answers email wording (variables & responses)
+	- [x] Thank you wording (variables)
+	- [x] Submitted answers email wording (variables & responses)
 - Google Launch
 	- [x] 50 participants
 - Zapier Launch
