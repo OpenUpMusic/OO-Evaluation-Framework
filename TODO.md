@@ -27,11 +27,11 @@
 - Zapier Launch
 	- [x] Hook up to new form
 - Zapier Results
-	- [ ] Hook up to new form
-	- [ ] Check sample
-	- [ ] Redo mapping of responses
+	- [x] Hook up to new form
+	- [x] Check sample
+	- [x] Redo mapping of responses
 - Google Results
-	- [ ] Redo response columns
+	- [x] Redo response columns
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
@@ -50,11 +50,11 @@
 - Zapier Launch
 	- [x] Hook up to new form
 - Zapier Results
-	- [ ] Hook up to new form
-	- [ ] Check sample
-	- [ ] Redo mapping of responses
+	- [x] Hook up to new form
+	- [x] Check sample
+	- [x] Redo mapping of responses
 - Google Results
-	- [ ] Redo response columns
+	- [x] Redo response columns
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
@@ -73,11 +73,11 @@
 - Zapier Launch
 	- [x] Hook up to new form
 - Zapier Results
-	- [ ] Hook up to new form
-	- [ ] Check sample
-	- [ ] Redo mapping of responses
+	- [x] Hook up to new form
+	- [x] Check sample
+	- [x] Redo mapping of responses
 - Google Results
-	- [ ] Redo response columns
+	- [x] Redo response columns
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
