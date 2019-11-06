@@ -13,7 +13,7 @@
 	- [x] Check hook to Google Demographics Results
 	- [x] Check age field is still valid
 	- [x] Test
-	- [ ] Resolve loss of Unique ID. (Formstack drop webhook. Zapier reconnect to form. Test.)
+	- [x] Resolve loss of Unique ID. (Formstack drop webhook. Zapier reconnect to form. Test.)
 - Zapier Launch
 	- [x] Hook up to new form
 	- [x] Test by adding to Google Launcher
@@ -35,9 +35,9 @@
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
-	- [ ] Test form (baseline, midpoint & endpoint)
-	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
-	- [ ] Test Form submission -> Zapier Results -> Google Results
+	- [x] Test form (baseline, midpoint & endpoint)
+	- [x] Test submitted answers email (baseline, midpoint & endpoint)
+	- [x] Test Form submission -> Zapier Results -> Google Results
 
 
 # Participant self-evaluation
@@ -58,9 +58,9 @@
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
-	- [ ] Test form (baseline, midpoint & endpoint)
-	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
-	- [ ] Test Form submission -> Zapier Results -> Google Results
+	- [x] Test form (baseline, midpoint & endpoint)
+	- [x] Test submitted answers email (baseline, midpoint & endpoint)
+	- [x] Test Form submission -> Zapier Results -> Google Results
 
 
 # Participant evaluation (by music educator)
@@ -81,6 +81,6 @@
 - Tests
 	- [x] Test Google Launch YES -> Zapier Launch -> Email + Google Launch SENT
 	- [x] Test links in invitation email
-	- [ ] Test form (baseline, midpoint & endpoint)
-	- [ ] Test submitted answers email (baseline, midpoint & endpoint)
-	- [ ] Test Form submission -> Zapier Results -> Google Results
+	- [x] Test form (baseline, midpoint & endpoint)
+	- [x] Test submitted answers email (baseline, midpoint & endpoint)
+	- [x] Test Form submission -> Zapier Results -> Google Results
