@@ -1,36 +1,75 @@
-Hi {{42358410__COL$C}},
+Hi {{64156644__COL$C}},
 
-It's now time for your Open Orchestras delivery team to complete {{42358410__COL$E}} evaluation surveys about each participant.
+It's now time for your music educators to complete their {{64156644__COL$E}} surveys about each Open Orchestras participant.
 
-Below is a link for each of your Open Orchestras participants (represented by their initials). Please could your Open Orchestras delivery team (the staff member and the music leader delivering Open Orchestras in your setting) complete one survey for each participant by clicking each link:
+The staff member and music leader delivering Open Orchestras in your setting should complete one survey per participant, by clicking the link for each participant’s initials below:
 
-{{42358410__COL$G}}: {{42358410__COL$AN}}
-{{42358410__COL$H}}: {{42358410__COL$AO}}
-{{42358410__COL$I}}: {{42358410__COL$AP}}
-{{42358410__COL$J}}: {{42358410__COL$AQ}}
-{{42358410__COL$K}}: {{42358410__COL$AR}}
-{{42358410__COL$L}}: {{42358410__COL$AS}}
-{{42358410__COL$M}}: {{42358410__COL$AT}}
-{{42358410__COL$N}}: {{42358410__COL$AU}}
-{{42358410__COL$O}}: {{42358410__COL$AV}}
-{{42358410__COL$P}}: {{42358410__COL$AW}}
-{{42358410__COL$Q}}: {{42358410__COL$AX}}
-{{42358410__COL$R}}: {{42358410__COL$AY}}
-{{42358410__COL$S}}: {{42358410__COL$AZ}}
-{{42358410__COL$T}}: {{42358410__COL$BA}}
-{{42358410__COL$U}}: {{42358410__COL$BB}}
+{{64156644__COL$G}}: {{64156644__COL$DF}}
+{{64156644__COL$H}}: {{64156644__COL$DG}}
+{{64156644__COL$I}}: {{64156644__COL$DH}}
+{{64156644__COL$J}}: {{64156644__COL$DI}}
+{{64156644__COL$K}}: {{64156644__COL$DJ}}
+{{64156644__COL$L}}: {{64156644__COL$DK}}
+{{64156644__COL$M}}: {{64156644__COL$DL}}
+{{64156644__COL$N}}: {{64156644__COL$DM}}
+{{64156644__COL$O}}: {{64156644__COL$DN}}
+{{64156644__COL$P}}: {{64156644__COL$DO}}
+
+{{64156644__COL$Q}}: {{64156644__COL$DP}}
+{{64156644__COL$R}}: {{64156644__COL$DQ}}
+{{64156644__COL$S}}: {{64156644__COL$DR}}
+{{64156644__COL$T}}: {{64156644__COL$DS}}
+{{64156644__COL$U}}: {{64156644__COL$DT}}
+{{64156644__COL$V}}: {{64156644__COL$DU}}
+{{64156644__COL$W}}: {{64156644__COL$DV}}
+{{64156644__COL$X}}: {{64156644__COL$DW}}
+{{64156644__COL$Y}}: {{64156644__COL$DX}}
+{{64156644__COL$Z}}: {{64156644__COL$DY}}
+
+{{64156644__COL$AA}}: {{64156644__COL$DZ}}
+{{64156644__COL$AB}}: {{64156644__COL$EA}}
+{{64156644__COL$AC}}: {{64156644__COL$EB}}
+{{64156644__COL$AD}}: {{64156644__COL$EC}}
+{{64156644__COL$AE}}: {{64156644__COL$ED}}
+{{64156644__COL$AF}}: {{64156644__COL$EE}}
+{{64156644__COL$AG}}: {{64156644__COL$EF}}
+{{64156644__COL$AH}}: {{64156644__COL$EG}}
+{{64156644__COL$AI}}: {{64156644__COL$EH}}
+{{64156644__COL$AJ}}: {{64156644__COL$EI}}
+
+{{64156644__COL$AK}}: {{64156644__COL$EJ}}
+{{64156644__COL$AL}}: {{64156644__COL$EK}}
+{{64156644__COL$AM}}: {{64156644__COL$EL}}
+{{64156644__COL$AN}}: {{64156644__COL$EM}}
+{{64156644__COL$AO}}: {{64156644__COL$EN}}
+{{64156644__COL$AP}}: {{64156644__COL$EO}}
+{{64156644__COL$AQ}}: {{64156644__COL$EP}}
+{{64156644__COL$AR}}: {{64156644__COL$EQ}}
+{{64156644__COL$AS}}: {{64156644__COL$ER}}
+{{64156644__COL$AT}}: {{64156644__COL$ES}}
+
+{{64156644__COL$AU}}: {{64156644__COL$ET}}
+{{64156644__COL$AV}}: {{64156644__COL$EU}}
+{{64156644__COL$AW}}: {{64156644__COL$EV}}
+{{64156644__COL$AX}}: {{64156644__COL$EW}}
+{{64156644__COL$AY}}: {{64156644__COL$EX}}
+{{64156644__COL$AZ}}: {{64156644__COL$EY}}
+{{64156644__COL$BA}}: {{64156644__COL$EZ}}
+{{64156644__COL$BB}}: {{64156644__COL$FA}}
+{{64156644__COL$BC}}: {{64156644__COL$FB}}
+{{64156644__COL$BD}}: {{64156644__COL$FC}}
 
 
 NEED TO REGISTER MORE PARTICIPANTS?
 
 If you need to complete evaluation surveys for participants not listed above, click here to register a new participant:
-{{42358410__COL$BC}}
+{{64156644__COL$FD}}
 and then send us an email at info@openorchestras.org to let us know.
 
 
 DEADLINE
 
-Please ensure that all {{42358410__COL$E}} evaluation surveys are completed by {{42358410__COL$F}}. We will then process your data and send you your {{42358410__COL$E}} evaluation report.
+Please ensure that all {{64156644__COL$E}} evaluation surveys are completed by {{64156644__COL$F}}. We will then process your data and send out your {{64156644__COL$E}} evaluation report.
 
-Thanks!
+Many thanks!
 Open Orchestras

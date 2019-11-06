@@ -1,40 +1,81 @@
-Hi {{42343555__COL$C}},
+Hi {{64156612__COL$C}},
 
-It's now time for your Open Orchestras participants to complete their {{42343555__COL$E}} self-evaluations.
+It's now time for your Open Orchestras participants to complete their {{64156612__COL$E}} self-evaluations. The instructions below are for the music educator who will support them to do this.
 
-Below is a link for each of your Open Orchestras participants (represented by their initials). Please could you complete one survey WITH each participant. You may want to print out the questions to record the participant's answers on paper first, before submitting them online by clicking each of the links below:
+Please click the links below (showing your participants’ initials) to reveal the questions and to record each participant’s answers. You may want to print out the questions to record their answers on paper first, before submitting them online.
 
-{{42343555__COL$G}}: {{42343555__COL$AN}}
-{{42343555__COL$H}}: {{42343555__COL$AO}}
-{{42343555__COL$I}}: {{42343555__COL$AP}}
-{{42343555__COL$J}}: {{42343555__COL$AQ}}
-{{42343555__COL$K}}: {{42343555__COL$AR}}
-{{42343555__COL$L}}: {{42343555__COL$AS}}
-{{42343555__COL$M}}: {{42343555__COL$AT}}
-{{42343555__COL$N}}: {{42343555__COL$AU}}
-{{42343555__COL$O}}: {{42343555__COL$AV}}
-{{42343555__COL$P}}: {{42343555__COL$AW}}
-{{42343555__COL$Q}}: {{42343555__COL$AX}}
-{{42343555__COL$R}}: {{42343555__COL$AY}}
-{{42343555__COL$S}}: {{42343555__COL$AZ}}
-{{42343555__COL$T}}: {{42343555__COL$BA}}
-{{42343555__COL$U}}: {{42343555__COL$BB}}
-
-When you ask participants the questions, we suggest keeping it light and informal! Avoid asking questions at the end of a music session - somewhere in the midst of music making often works well. If participants are not in a position to give a clear answer, please select ‘not sure’ and then add a comment to clarify.
+When you ask participants the questions, we suggest keeping it light and informal! We have found that asking questions somewhere in the midst of music making works a lot better than at the end of a music session. If participants are not in a position to give a clear answer, please select 'Other' and then add a comment to clarify.
 
 When you submit each survey you will be emailed a copy of the responses for your records.
+
+Here are the links to the {{64156612__COL$E}} self-evaluation survey for each participant:
+
+{{64156612__COL$G}}: {{64156612__COL$DF}}
+{{64156612__COL$H}}: {{64156612__COL$DG}}
+{{64156612__COL$I}}: {{64156612__COL$DH}}
+{{64156612__COL$J}}: {{64156612__COL$DI}}
+{{64156612__COL$K}}: {{64156612__COL$DJ}}
+{{64156612__COL$L}}: {{64156612__COL$DK}}
+{{64156612__COL$M}}: {{64156612__COL$DL}}
+{{64156612__COL$N}}: {{64156612__COL$DM}}
+{{64156612__COL$O}}: {{64156612__COL$DN}}
+{{64156612__COL$P}}: {{64156612__COL$DO}}
+
+{{64156612__COL$Q}}: {{64156612__COL$DP}}
+{{64156612__COL$R}}: {{64156612__COL$DQ}}
+{{64156612__COL$S}}: {{64156612__COL$DR}}
+{{64156612__COL$T}}: {{64156612__COL$DS}}
+{{64156612__COL$U}}: {{64156612__COL$DT}}
+{{64156612__COL$V}}: {{64156612__COL$DU}}
+{{64156612__COL$W}}: {{64156612__COL$DV}}
+{{64156612__COL$X}}: {{64156612__COL$DW}}
+{{64156612__COL$Y}}: {{64156612__COL$DX}}
+{{64156612__COL$Z}}: {{64156612__COL$DY}}
+
+{{64156612__COL$AA}}: {{64156612__COL$DZ}}
+{{64156612__COL$AB}}: {{64156612__COL$EA}}
+{{64156612__COL$AC}}: {{64156612__COL$EB}}
+{{64156612__COL$AD}}: {{64156612__COL$EC}}
+{{64156612__COL$AE}}: {{64156612__COL$ED}}
+{{64156612__COL$AF}}: {{64156612__COL$EE}}
+{{64156612__COL$AG}}: {{64156612__COL$EF}}
+{{64156612__COL$AH}}: {{64156612__COL$EG}}
+{{64156612__COL$AI}}: {{64156612__COL$EH}}
+{{64156612__COL$AJ}}: {{64156612__COL$EI}}
+
+{{64156612__COL$AK}}: {{64156612__COL$EJ}}
+{{64156612__COL$AL}}: {{64156612__COL$EK}}
+{{64156612__COL$AM}}: {{64156612__COL$EL}}
+{{64156612__COL$AN}}: {{64156612__COL$EM}}
+{{64156612__COL$AO}}: {{64156612__COL$EN}}
+{{64156612__COL$AP}}: {{64156612__COL$EO}}
+{{64156612__COL$AQ}}: {{64156612__COL$EP}}
+{{64156612__COL$AR}}: {{64156612__COL$EQ}}
+{{64156612__COL$AS}}: {{64156612__COL$ER}}
+{{64156612__COL$AT}}: {{64156612__COL$ES}}
+
+{{64156612__COL$AU}}: {{64156612__COL$ET}}
+{{64156612__COL$AV}}: {{64156612__COL$EU}}
+{{64156612__COL$AW}}: {{64156612__COL$EV}}
+{{64156612__COL$AX}}: {{64156612__COL$EW}}
+{{64156612__COL$AY}}: {{64156612__COL$EX}}
+{{64156612__COL$AZ}}: {{64156612__COL$EY}}
+{{64156612__COL$BA}}: {{64156612__COL$EZ}}
+{{64156612__COL$BB}}: {{64156612__COL$FA}}
+{{64156612__COL$BC}}: {{64156612__COL$FB}}
+{{64156612__COL$BD}}: {{64156612__COL$FC}}
 
 
 NEED TO REGISTER MORE PARTICIPANTS?
 
 If you need to complete evaluation surveys for participants not listed above, click here to register a new participant:
-{{42343555__COL$BC}}
+{{64156612__COL$FD}}
 and then send us an email at info@openorchestras.org to let us know.
 
 
 DEADLINE
 
-Please ensure that all {{42343555__COL$E}} evaluation surveys are completed by {{42343555__COL$F}}. We will then process your data and send you your {{42343555__COL$E}} evaluation report.
+Please ensure that all {{64156612__COL$E}} evaluation surveys are completed by {{64156612__COL$F}}. We will then process your data and send out your {{64156612__COL$E}} evaluation report.
 
-Thanks!
+Many thanks!
 Open Orchestras
